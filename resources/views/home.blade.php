@@ -113,7 +113,7 @@
       <img src="/w3images/bolu1.jpg" alt="Car" style="width:100%">
       <h4>Retro</h4>
       <p>Lorem ipsum dolor..</p>
-    </div>
+    </div> 
   </div>
   <div class="column bolu">
     <div class="content">
